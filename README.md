@@ -133,9 +133,9 @@ Despite your best efforts, you testers do wind yourself doing the same set of ac
 
 
 
-Mejbaur Bahar Fagun 
-[C|EH, OSINT, Digital Forensic]
-Product Acceptance Engineer (SQA), DevXHub
-Website:https:fagun.net
+Mejbaur Bahar Fagun </n>
+[C|EH, OSINT, Digital Forensic] </n>
+Product Acceptance Engineer (SQA), DevXHub </n>
+Website:https:fagun.net </n>
 Blog site:http://mejbaurbaharfagun.blogspot.com/
 
